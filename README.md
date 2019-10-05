@@ -12,7 +12,7 @@ We compute the histogram of 1000 bins of the images using different color spaces
 * CIELUV
 * HSV
 * HLS
-* CrCb
+* YCrCb
 * Grayscale
 
 #### Task 2: Similarity measures
