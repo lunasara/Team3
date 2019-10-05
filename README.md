@@ -34,7 +34,7 @@ We have tested for all different color spaces and similarity metrics which was p
 
 #### Task 4: Evaluation QS1
 
-For the query set 1 we have obtained an MAP@K factor of
+For the query set 1 we have obtained an MAP@K factor of ...
 
 #### Task 5: Remove back ground for QS2
 
@@ -42,3 +42,4 @@ To remove the background for images in query set 2 we have decided to look at th
 
 #### Task 6: Evaluation QS2
 
+Using the same similarity measure and color space as for QS1 we habe obtained a MAP@K factor of ....
