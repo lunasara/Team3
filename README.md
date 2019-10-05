@@ -7,7 +7,11 @@
 We compute the histogram of the images using different color spaces
 
 * RGB
-* LAB
+* XYZ
+* CIELAB
+* CIELUV
+* HSV
+* HLS
 * CrCb
 * Grayscale
 
