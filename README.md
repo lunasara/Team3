@@ -4,6 +4,13 @@
 
 #### Task 1: Compute image descriptors
 
+We compute the histogram of the images using different color spaces
+
+* RGB
+* LAB
+* CrCb
+* Grayscale
+
 #### Task 2: Similarity measures
 
 This are the similarity measures implemented in our code
@@ -18,8 +25,6 @@ This are the similarity measures implemented in our code
 
 
 #### Task 3: Compute similarities to museum images for images in QS1
-
-
 
 #### Task 4: Evaluation QS1
 
