@@ -30,7 +30,7 @@ This are the similarity measures implemented in our code
 
 #### Task 3: Compute similarities to museum images for images in QS1
 
-We have tested for all different color spaces and similarity metrics which was proven to give the best result, and it has been bla bla 
+We have tested for all different color spaces and similarity metrics.
 
 #### Task 4: Evaluation QS1
 
@@ -42,4 +42,3 @@ To remove the background for images in query set 2 we have decided to look at th
 
 #### Task 6: Evaluation QS2
 
-Using the same similarity measure and color space as for QS1 we habe obtained a MAP@K factor of ....
